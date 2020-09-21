@@ -12,6 +12,7 @@ composer require brain2694/laravel-toastr
 <br>
 $ php composer.phar require intervention/image
 <br>
+<br>
 4.donwload the files from github
 <br>
 5.paste the 'monerschool' folder in "C:\xampp\htdocs" this path
