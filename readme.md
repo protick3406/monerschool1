@@ -1,4 +1,5 @@
 1.First Download Xampp :https://www.apachefriends.org/index.html
+<br>
 2.Download Composer : https://getcomposer.org/
 3.Open Command Prompt(cmd)
 and run : composer global require laravel/installer
