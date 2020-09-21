@@ -2,6 +2,7 @@
 <br>
 2.Download Composer : https://getcomposer.org/
 <br>
+<br>
 3.Open Command Prompt(cmd)
 <br>
 and run : composer global require laravel/installer
